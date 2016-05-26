@@ -1,2 +1,1 @@
-This is my folder.
-this is useless line.
+This is my leetCode Code from 2016/5/25.
